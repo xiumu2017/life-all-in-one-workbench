@@ -1,0 +1,7 @@
+# 本地调试与临时文件
+_check_*.js
+_chk.js
+_smoke*.js
+_debug*.js
+# CloudBase SDK 本地副本（页面走 CDN，无需入库）
+selfhost/tcb-sdk-*.js
